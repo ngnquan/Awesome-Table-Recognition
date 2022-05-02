@@ -44,7 +44,7 @@ ICDAR | 2017 |[Deepdesrt: Deep learning for detection and structure recognition 
 |Dataset|Cell Topology|Cell content|Cell Location|Table Location|
 |----|----|----|----|----|
 |TableBank|✓|✕|✕|✓|
-|SciTSR|✓|✓|✕|✓|
+|SciTSR|✓|✓|✕|✕|
 |PubTabNet|✓|✓|✓<sup>†|✓|
 |FinTabNet|✓|✓|✓<sup>†|✓|
 |PubTables-1M|✓|✓|✓|✓|
